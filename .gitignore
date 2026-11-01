@@ -10,3 +10,4 @@ lernhaus/topf/*
 !lernhaus/**/.gitkeep
 *.private.*
 lernhaus/eltern/*
+__pycache__/

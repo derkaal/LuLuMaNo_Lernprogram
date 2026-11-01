@@ -8,12 +8,12 @@ Lokales System für Übungstests, Auswertung, Lernstand und Familientopf.
 | Baustein | Stand |
 |---|---|
 | Ordnergerüst, `config/` | angelegt (privat, lokal) |
-| Luis Aufsatztraining Mo 02.11. bis Fr 06.11. und Mo 09.11. | fertig, im Browser getestet (`training/luis-aufsatz/dist/`) |
-| Luis Generalprobe Sa 07.11. | fertig (`training/luis-aufsatz/papier/`, Blatt + Coach-Notiz) |
+| Aufsatztraining (Tablet) Mo 02.11. bis Fr 06.11. und Mo 09.11. | fertig, im Browser getestet (`training/luis-aufsatz/dist/`) |
+| Generalprobe Sa 07.11. | fertig (`training/luis-aufsatz/papier/`; Coach-Notiz liegt privat bei den Tests) |
 | Info für Eltern | fertig (privat, `eltern/`) |
-| Lernstand Luis, Marie | aus Profilen angelegt (privat) |
-| Lernstand Norah, Lucie | offen: Zugriff auf die Originaldateien fehlt |
-| Einstufung Marie, Wochenendtests Norah/Lucie | offen |
+| Lernstände aus den Elternprofilen | angelegt (privat) |
+| Übernahme bestehender Lernstände | offen: Zugriff auf die Originaldateien fehlt |
+| Einstufung und Wochenendtests (Papier) | offen |
 | /intake, /grade, /report, /status, /generate | offen |
 
 ## Aufsatztraining neu bauen
