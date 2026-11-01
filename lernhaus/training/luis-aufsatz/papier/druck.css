@@ -19,3 +19,23 @@ h1{font-size:20pt;margin:0 0 4mm} h2{font-size:14pt;margin:5mm 0 2mm} h3{font-si
 .beob .z{border-bottom:0.6pt solid #888;height:8mm}
 .klein{font-size:10pt;color:#444}
 table{border-collapse:collapse;width:100%;font-size:10.5pt} td,th{border:0.8pt solid #666;padding:1.5mm 2mm;vertical-align:top;text-align:left}
+.karo{background-image:linear-gradient(#c9d3df .5pt,transparent .5pt),linear-gradient(90deg,#c9d3df .5pt,transparent .5pt);background-size:5mm 5mm;border:1pt solid #9aa7b6;border-radius:1.5mm}
+.aufg{margin:3.2mm 0;page-break-inside:avoid;break-inside:avoid}
+.aufg .n{font-weight:bold}
+.teilkopf{display:flex;justify-content:space-between;align-items:baseline;background:#eef2ff;border-radius:2.5mm;padding:2mm 4mm;margin:0 0 3mm}
+.teilkopf h1{margin:0;font-size:17pt}
+.schreib{border-bottom:.8pt solid #888;height:9mm}
+.zwei{display:grid;grid-template-columns:1fr 1fr;gap:4mm}
+.bonus{border:1.2pt dashed #7c3aed;border-radius:2.5mm;padding:2mm 4mm;margin-top:4mm;background:#faf5ff}
+.pause{text-align:center;font-size:12pt;margin-top:4mm;padding:2mm;border-top:1pt dotted #999}
+.wort{display:inline-block;border:1pt solid #555;border-radius:1.5mm;padding:.5mm 2.5mm;margin:0 1.5mm 1.5mm 0}
+.verb{display:flex;justify-content:space-between;align-items:center;margin:1.5mm 0}
+.verb span{display:inline-block;width:30mm}
+.dot{display:inline-block;width:3mm;height:3mm;border:1pt solid #333;border-radius:50%}
+.lt{border:1pt solid #999;border-radius:2mm;padding:2mm 3mm;background:#fafafa}
+.karten{display:grid;grid-template-columns:1fr;gap:0}
+.karte-z{display:grid;grid-template-columns:1fr 1fr;border:1pt dashed #777;border-top:none;height:31mm}
+.karte-z:first-child{border-top:1pt dashed #777}
+.karte-z>div{padding:3mm 4mm;display:flex;align-items:center;font-size:12pt}
+.karte-z>div:first-child{border-right:1pt dotted #aaa;font-weight:bold}
+.karte-z .tag{font-size:8.5pt;color:#777;display:block;font-weight:normal}

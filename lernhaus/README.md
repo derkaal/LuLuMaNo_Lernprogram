@@ -13,7 +13,8 @@ Lokales System für Übungstests, Auswertung, Lernstand und Familientopf.
 | Info für Eltern | fertig (privat, `eltern/`) |
 | Lernstände aus den Elternprofilen | angelegt (privat) |
 | Übernahme bestehender Lernstände | offen: Zugriff auf die Originaldateien fehlt |
-| Einstufung und Wochenendtests (Papier) | offen |
+| Einstufung Papier (Teile A/B/C) mit Lernkarten | erstellt (privat) |
+| Wochenendtests aus bestehenden Lernständen | offen |
 | /intake, /grade, /report, /status, /generate | offen |
 
 ## Aufsatztraining neu bauen
