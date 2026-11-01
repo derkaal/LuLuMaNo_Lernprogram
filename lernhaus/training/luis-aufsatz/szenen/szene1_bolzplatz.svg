@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Bolzplatz am Abend: Hinter dem Fußballtor leuchtet ein Nebelwirbel, ein kleiner Drache mit Torwarthandschuhen schaut heraus, links steht ein Junge mit Ball.">
+  <defs>
+    <linearGradient id="s1sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5b3f8c"/><stop offset=".6" stop-color="#e98a5b"/><stop offset="1" stop-color="#f6c27a"/></linearGradient>
+    <radialGradient id="s1glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#fff9c4"/><stop offset=".45" stop-color="#9be7ff" stop-opacity=".9"/><stop offset="1" stop-color="#7c4dff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="400" height="260" fill="url(#s1sky)"/>
+  <circle cx="330" cy="40" r="14" fill="#fff3c0" opacity=".9"/>
+  <path d="M0 170 Q100 155 200 165 T400 160 V260 H0Z" fill="#4c9a4a"/>
+  <path d="M0 200 Q120 190 220 198 T400 195 V260 H0Z" fill="#3f8a3e"/>
+  <line x1="40" y1="230" x2="380" y2="215" stroke="#fff" stroke-width="2" opacity=".6"/>
+  <ellipse cx="255" cy="125" rx="95" ry="70" fill="url(#s1glow)"/>
+  <path d="M215 110 q40 -40 80 0 q-40 30 -60 5 q20 -15 35 0" fill="none" stroke="#fff" stroke-width="3" opacity=".8"/>
+  <g stroke="#fff" stroke-width="1" opacity=".55">
+    <line x1="190" y1="95" x2="190" y2="185"/><line x1="210" y1="95" x2="210" y2="185"/><line x1="230" y1="95" x2="230" y2="185"/><line x1="250" y1="95" x2="250" y2="185"/><line x1="270" y1="95" x2="270" y2="185"/><line x1="290" y1="95" x2="290" y2="185"/><line x1="310" y1="95" x2="310" y2="185"/>
+    <line x1="175" y1="115" x2="325" y2="115"/><line x1="175" y1="135" x2="325" y2="135"/><line x1="175" y1="155" x2="325" y2="155"/><line x1="175" y1="175" x2="325" y2="175"/>
+  </g>
+  <rect x="172" y="92" width="156" height="94" fill="none" stroke="#fdfdfd" stroke-width="7" stroke-linejoin="round"/>
+  <g transform="translate(250 140)">
+    <ellipse cx="0" cy="10" rx="24" ry="20" fill="#3fb77a"/>
+    <circle cx="0" cy="-18" r="16" fill="#46c486"/>
+    <path d="M-10 -32 l-4 -12 l9 8 M10 -32 l4 -12 l-9 8" fill="#f2b84b"/>
+    <circle cx="-6" cy="-20" r="4" fill="#fff"/><circle cx="6" cy="-20" r="4" fill="#fff"/>
+    <circle cx="-5" cy="-19" r="2" fill="#222"/><circle cx="7" cy="-19" r="2" fill="#222"/>
+    <path d="M-6 -10 q6 5 12 0" stroke="#1d5c3d" stroke-width="2" fill="none"/>
+    <path d="M18 0 q28 -22 30 -40 q-14 8 -22 22Z" fill="#7fe0b0"/>
+    <circle cx="-28" cy="0" r="9" fill="#ff7a1a" stroke="#c24f00" stroke-width="2"/>
+    <circle cx="28" cy="2" r="9" fill="#ff7a1a" stroke="#c24f00" stroke-width="2"/>
+  </g>
+  <g fill="#fff9c4"><circle cx="205" cy="80" r="2.5"/><circle cx="318" cy="70" r="2"/><circle cx="300" cy="200" r="2"/><circle cx="195" cy="205" r="1.8"/></g>
+  <g transform="translate(80 150)">
+    <circle cx="0" cy="0" r="13" fill="#f2c9a0"/>
+    <path d="M-13 -4 q13 -16 26 0" fill="#5a3a22"/>
+    <rect x="-13" y="13" width="26" height="34" rx="6" fill="#d62828"/>
+    <text x="0" y="36" font-size="13" font-family="sans-serif" fill="#fff" text-anchor="middle">1</text>
+    <rect x="-10" y="47" width="9" height="28" fill="#222"/><rect x="2" y="47" width="9" height="28" fill="#222"/>
+    <line x1="13" y1="20" x2="30" y2="5" stroke="#f2c9a0" stroke-width="7" stroke-linecap="round"/>
+    <line x1="-13" y1="20" x2="-26" y2="38" stroke="#f2c9a0" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(125 215)"><circle r="10" fill="#fff" stroke="#333" stroke-width="1.5"/><path d="M-4 -3 l4 -3 l4 3 l-1.5 5 h-5Z" fill="#333"/></g>
+</svg>

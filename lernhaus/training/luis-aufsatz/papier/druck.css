@@ -1,0 +1,21 @@
+@page{size:A4;margin:14mm 15mm 14mm 15mm}
+*{box-sizing:border-box}
+body{font-family:"Helvetica Neue",Arial,sans-serif;font-size:12.5pt;color:#111;margin:0;line-height:1.35}
+h1{font-size:20pt;margin:0 0 4mm} h2{font-size:14pt;margin:5mm 0 2mm} h3{font-size:12.5pt;margin:3mm 0 1mm}
+.seite{page-break-after:always;break-after:page} .seite:last-child{page-break-after:auto;break-after:auto}
+.kopf{display:flex;justify-content:space-between;border-bottom:1.5pt solid #111;padding-bottom:2mm;margin-bottom:4mm;font-size:11pt}
+.bild svg{width:100%;max-height:85mm;border:1pt solid #999;border-radius:3mm}
+.kasten{border:1.2pt solid #333;border-radius:2.5mm;padding:3mm 4mm;margin:3mm 0}
+.pkt{float:right;font-weight:bold;border:1pt solid #333;border-radius:2mm;padding:0 2mm;font-size:11pt}
+.plan{display:grid;grid-template-columns:1fr 1fr;gap:3mm}
+.plan div{border:1pt solid #555;border-radius:2mm;padding:2mm 3mm;height:27mm;font-size:11pt}
+.plan b{display:block}
+.linien{margin-top:2mm}
+.linien .l{height:11mm;border-bottom:0.8pt solid #888}
+.linien .l.leer{border-bottom:0.4pt dotted #ccc}
+.check li{margin:1.2mm 0;list-style:none} .check li:before{content:"☐  "}
+.joker{display:flex;gap:4mm} .joker div{flex:1;border:1.2pt dashed #b7791f;border-radius:2.5mm;padding:2mm 3mm;text-align:center;font-size:12pt}
+.beob{border:1.2pt solid #333;border-radius:2.5mm;padding:3mm 4mm;margin-top:4mm;font-size:11pt}
+.beob .z{border-bottom:0.6pt solid #888;height:8mm}
+.klein{font-size:10pt;color:#444}
+table{border-collapse:collapse;width:100%;font-size:10.5pt} td,th{border:0.8pt solid #666;padding:1.5mm 2mm;vertical-align:top;text-align:left}

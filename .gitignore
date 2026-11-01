@@ -1,0 +1,12 @@
+# Private Daten der Kinder: NIE in dieses (öffentliche) Repository.
+lernhaus/config/kinder.yaml
+lernhaus/config/belohnung.yaml
+lernhaus/kinder/*/lernstand.md
+lernhaus/kinder/*/belege/*
+lernhaus/kinder/*/tests/*
+lernhaus/kinder/*/auswertungen/*
+lernhaus/kinder/*/lernkarten/*
+lernhaus/topf/*
+!lernhaus/**/.gitkeep
+*.private.*
+lernhaus/eltern/*
