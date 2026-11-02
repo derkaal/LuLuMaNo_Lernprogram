@@ -11,3 +11,4 @@ lernhaus/topf/*
 *.private.*
 lernhaus/eltern/*
 __pycache__/
+uebergabe/
